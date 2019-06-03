@@ -34,13 +34,58 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
 
-2. Name two big differences between ```display: block;``` and ```display: inline;```.
 
-3. What are the 4 areas of the box model?
+Ans1)  
 
-4. While using flexbox, what axis does the following property work on: ```align-items: center```?
+Semantic Html means providing meaning to your content.When we write semantic markup, we use HTMl tags to tell
+browsers something about the contents of the element.There are some advantages that semantic markup give us
+like Clearer Code and Easier To maintain.Easy to access etc.
+
+
+
+2. Name two big differences between ```display: block;``` and ```display: inline;```.  
+
+
+Ans2) 
+
+ Block-level elements take up all of the available space within their parent container.But 
+Inline elements can exist within the block-level elements.  
+
+
+
+
+3. What are the 4 areas of the box model?  
+
+
+Ans3) 
+
+
+Four areas of box model is .
+Padding
+Margin
+border
+Content 
+
+
+4. While using flexbox, what axis does the following property work on: ```align-items: center```?  
+
+
+Ans4 )  
+
+Cross-Axis
 
 5. Explain why git is valuable to a team of developers.
+
+
+
+
+
+Ans5) 
+I would say One of the biggest advantage of git is its branching capabilities.
+git branches easy to merge. plus  it allows your work to get out in front of the public.
+ Moreover, it is one of the largest coding communities around, so using it can provide wide exposure for your project and for you.
+ plus It allows multiple developers to work together.and allows you to keep every change you make in the code repository. 
+
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
@@ -103,4 +148,14 @@ After finishing your required elements, you can push your work further. These go
 * [ ] Build a page of your choosing from the navigation items.  Come up with content and images that fit the theme.  
 * [ ] Introduce CSS animations to your site.
 * [ ] Build a contact page and create a form with several inputs of your choosing
-* [ ] Add responsive breakpoints to your code by using media queries
+* [ ] Add responsive breakpoints to your code by using media queries 
+
+
+
+
+
+
+
+
+
+
